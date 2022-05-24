@@ -3,6 +3,8 @@
 //more info: 
 //https://chihauccisoilconte.eu/
 //https://officineonoff.com/
+//to be uploaded to an ESP32 board
+//MIDI BLE Library - https://www.arduino.cc/reference/en/libraries/esp32-ble-midi/
 
 
 #include <Arduino.h>
